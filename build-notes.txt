@@ -1,0 +1,10 @@
+Build Notes:
+Open command prompt navigate to the respective file location and type the following command
+C:\User\Desktop\..\Calculator> java -jar Calculator.jar
+Expression> add(10,29)
+Output = 39
+Expression> let(a,let(b,5,add(b,10)),mult(a,div(10,2)))
+Output = 75
+Expression> quit
+
+Note: Type quit to exit the application.
