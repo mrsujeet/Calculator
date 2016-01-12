@@ -1,0 +1,53 @@
+[DEBUG] 2016-01-11 15:50:50,963 - Main Program Starts
+[DEBUG] 2016-01-11 17:59:00,966 - Main Program Starts
+[DEBUG] 2016-01-11 17:59:49,566 - Stack : [SUB]
+[DEBUG] 2016-01-11 17:59:49,566 - Intermediate Values : 19
+[INFO ] 2016-01-11 17:59:49,566 - SUB(29,10) = 19
+[DEBUG] 2016-01-11 18:10:08,709 - Main Program Starts
+[DEBUG] 2016-01-11 18:10:39,578 - Stack : [SUB]
+[DEBUG] 2016-01-11 18:10:39,578 - Intermediate Values : -7
+[INFO ] 2016-01-11 18:10:39,578 - SUB(12,19) = -7
+[ERROR] 2016-01-11 18:14:15,097 - Exception :No line found
+[DEBUG] 2016-01-11 18:19:02,432 - Main Program Starts
+[DEBUG] 2016-01-11 18:22:23,499 - Stack : [ADD]
+[DEBUG] 2016-01-11 18:22:23,499 - Intermediate Values : 12
+[INFO ] 2016-01-11 18:22:23,502 - ADD(5,7) = 12
+[DEBUG] 2016-01-11 18:22:40,096 - Main Program Starts
+[DEBUG] 2016-01-11 18:23:19,728 - Main Program Starts
+[DEBUG] 2016-01-11 18:24:06,600 - Main Program Starts
+[DEBUG] 2016-01-11 18:29:24,970 - Stack : [ADD]
+[DEBUG] 2016-01-11 18:31:51,588 - Intermediate Values : 10
+[INFO ] 2016-01-11 18:31:56,031 - ADD(4,6) = 10
+[DEBUG] 2016-01-11 18:37:43,083 - Main Program Starts
+[DEBUG] 2016-01-11 18:37:53,766 - Stack : [ADD]
+[DEBUG] 2016-01-11 18:37:53,766 - Intermediate Values : 12
+[INFO ] 2016-01-11 18:37:53,766 - ADD(3,9) = 12
+[DEBUG] 2016-01-11 18:38:04,959 - Stack : [SUB]
+[ERROR] 2016-01-11 18:38:04,959 - Number Format Exceltion in : A SUB B
+[ERROR] 2016-01-11 18:38:04,962 - Exception :For input string: "A"
+[INFO ] 2016-01-11 18:44:03,169 - Main Program Starts
+[DEBUG] 2016-01-11 18:44:16,844 - Stack : []
+[DEBUG] 2016-01-11 18:44:16,844 - Invalid Expression
+[INFO ] 2016-01-11 18:44:16,844 - Invalid Operation
+[INFO ] 2016-01-11 18:44:16,844 - MUL(-2,8) = 0
+[DEBUG] 2016-01-11 18:44:59,336 - Stack : [MULT]
+[DEBUG] 2016-01-11 18:44:59,338 - Intermediate Values : -24
+[INFO ] 2016-01-11 18:44:59,338 - Invalid Operation
+[INFO ] 2016-01-11 18:44:59,338 - MULT(-3,8) = -24
+[DEBUG] 2016-01-11 18:45:59,217 - Stack : [MULT]
+[DEBUG] 2016-01-11 18:45:59,217 - Intermediate Values : 45
+[INFO ] 2016-01-11 18:45:59,217 - Invalid Operation
+[INFO ] 2016-01-11 18:45:59,217 - MULT(5,9) = 45
+[DEBUG] 2016-01-11 18:46:27,189 - Stack : [ADD]
+[DEBUG] 2016-01-11 18:46:27,189 - Intermediate Values : 16
+[INFO ] 2016-01-11 18:46:27,189 - Invalid Operation
+[INFO ] 2016-01-11 18:46:27,189 - ADD(7,9) = 16
+[DEBUG] 2016-01-11 18:48:23,558 - Main Program Starts
+[DEBUG] 2016-01-11 18:48:32,051 - Stack : [MULT]
+[DEBUG] 2016-01-11 18:48:32,051 - Intermediate Values : 21
+[INFO ] 2016-01-11 18:48:32,051 - MULT(3,7) = 21
+[DEBUG] 2016-01-11 20:09:26,441 - Main Program Starts
+[DEBUG] 2016-01-11 23:07:06,685 - Main Program Starts
+[DEBUG] 2016-01-11 23:07:30,241 - Stack : [SUB]
+[DEBUG] 2016-01-11 23:07:30,241 - Intermediate Values : -1
+[INFO ] 2016-01-11 23:07:30,241 - SUB(2,3) = -1
